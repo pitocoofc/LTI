@@ -2,7 +2,11 @@ const fs = require('fs');
 const path = require('path');
 
 const extMap = {
-    '.js': 'JavaScript', '.c': 'C', '.java': 'Java', '.py': 'Python', '.lua': 'Lua',
+    '.js': 'JavaScript', 
+    '.c': 'C', 
+    '.java': 'Java', 
+    '.py': 'Python', 
+    '.lua': 'Lua',
     '.cpp': 'C++', 
     '.html': 'HTML', 
     '.css': 'CSS', 
