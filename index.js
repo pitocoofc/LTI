@@ -3,7 +3,6 @@ const path = require('path');
 
 const extMap = {
     // LINGUAGENS MODERNAS E POPULARES
-{
     '.js': 'JavaScript', 
     '.c': 'C', 
     '.java': 'Java', 
@@ -280,7 +279,6 @@ const extMap = {
     '.sav': 'SPSS',
     '.zsav': 'SPSS',
     '.por': 'SPSS'
-}
 };
 
 function processarDiretorio(listaTxt) {
